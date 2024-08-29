@@ -7,3 +7,4 @@ public class Factorial {
         }
         System.out.println("Factorial of " + number + " is: " + fact);
     }
+}
